@@ -169,8 +169,8 @@ python src/predict.py
 **Bisu**
 CSE Student | Aspiring Software Engineer
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/BisuSiddharth
+* LinkedIn: https://www.linkedin.com/in/bisusiddharth
 
 ---
 
